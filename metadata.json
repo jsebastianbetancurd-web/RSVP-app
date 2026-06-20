@@ -1,0 +1,6 @@
+{
+  "name": "Read Faster",
+  "description": "An RSVP speed reading app that parses local EPUB files, tracks progress, and allows adjustable speeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
